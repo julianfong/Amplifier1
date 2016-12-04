@@ -1,0 +1,8 @@
+Reference, Quantity, Value, Footprint, Datasheet, MFG, MPN
+C1 ,1,100pF,Capacitors_ThroughHole:C_Rect_L7_W2.5_P5,http://www.digikey.com/product-detail/en/vishay-bc-components/K101K10X7RF5UH5/BC2657CT-ND/2356871,Vishay,K101K10X7RF5UH5
+C2 ,1,100nF,Capacitors_ThroughHole:C_Rect_L7_W2.5_P5,http://www.digikey.com/product-detail/en/vishay-bc-components/K104K10X7RF5UH5/BC2665CT-ND/2356879,Vishay,K104K10X7RF5UH5
+P1 P2 P3 ,3,CONN_01X02,Terminal_Blocks:TerminalBlock_Pheonix_PT-3.5mm_2pol,http://www.digikey.com/product-search/en?keywords=%201935161,Phoenix,1935161
+R1 R2 ,2,5k,Resistors_ThroughHole:Resistor_Horizontal_RM7mm,http://www.digikey.com/product-detail/en/vishay-dale/RS02B5K000FE70/RSB-5.0KRCT-ND/1166649,Vishay,RS02B5K000FE70
+RV1 ,1,10k,Potentiometers:Potentiometer_Bourns_3296W_3-8Zoll_Inline_ScrewUp,http://www.digikey.com/product-detail/en/bourns-inc/3296Y-1-103LF/3296Y-103LF-ND/1088085,Bourns,3296Y-1-103LF
+RV2 ,1,5k,Potentiometers:Potentiometer_Bourns_3296W_3-8Zoll_Inline_ScrewUp,http://www.digikey.com/product-detail/en/bourns-inc/3296W-1-502LF/3296W-502LF-ND/1088058,Bourns,3296W-1-502LF
+U1 ,1,MCP6002,Power_Integrations:PDIP-8,http://www.digikey.com/product-detail/en/microchip-technology/MCP6002-I-P/MCP6002-I-P-ND/500875,Microchip Technology,MCP6002-I/P
